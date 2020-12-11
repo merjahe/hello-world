@@ -2,8 +2,8 @@
 Playground for simple stuff ;-)
 
 <p align="center">
-  <a href="tab1">Page 1 </a>
-  <a href="tab2">Page 2 </a>
-  <a href="tab3">Page 3 </a>
+  <a href="p1.md">Page 1 </a>
+  <a href="p2.md">Page 2 </a>
+  <a href="p3.md">Page 3 </a>
   
 </p>
